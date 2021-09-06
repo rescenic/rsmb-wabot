@@ -1,8 +1,9 @@
 # rsmb-wabot
 
 ## WhatsApp Bot for RS Muhammadiyah Bandung
+
 **Bot Link: ---**</br>
-**Bot Version: 0.1**
+**Bot Version: 0.2**
 
 ## Author
 
